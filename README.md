@@ -3,7 +3,9 @@ MAXMSP VOCODER ASSIGNMENT
 
 ![alttext](https://i.gyazo.com/3941a2009a2bdbc12dbe11503ec9b1ea.png)
 
-Video Demo of Vocoder: https://www.youtube.com/watch?v=nNvoi7yH0NQ&feature=youtu.be
+Video Demo of Vocoder: https://youtu.be/nNvoi7yH0NQ
+
+Video of How Vocoder Works: https://youtu.be/72ItGXn5fJc
 
 1.	Research & Development
 
